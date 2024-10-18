@@ -22,7 +22,7 @@ DataRecovery - innovative cryptocurrency project designed to facilitate secure a
 The goal of the project is to ensure the security of payments and the anonymity of their senders as a secondary goal. The primary goal is to restore information in the most severe cases of loss. Payment for data recovery is accepted in the same currency (DATR).
 The first prototype will be presented soon
 
-Feautures
+Features
 -------------------
 
 Enhanced Transaction Security: DataRecovery employs encryption methods to secure all transactions, ensuring that user data and funds remain protected from unauthorized access.
