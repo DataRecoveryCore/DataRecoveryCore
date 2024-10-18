@@ -1,4 +1,4 @@
-DataRecoveryCore Latest v0.0.1
+DataRecoveryCore Latest v0.0.1a
 ===========================
 
 |CI|master|develop|
